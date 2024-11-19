@@ -5,7 +5,7 @@ Sales analytics for a company called Atliq Hardwares using Excel
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** Create a _[customer performance report](https://github.com/Shivam-Uniyal/Excel-Sales-Analytics/blob/1eac5412247338bd362c4a69e7ae37c73d005a9d/Customer%20Performance%20Report.pdf)_ 
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
 
