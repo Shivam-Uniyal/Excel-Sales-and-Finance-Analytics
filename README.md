@@ -20,7 +20,7 @@ Sales analytics for a company called Atliq Hardwares using Excel
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Shivam-Uniyal/Excel-Sales-Analytics/blob/15bd649e8db57003fd5fe4e732d5e1a9c21ffe85/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Shivam-Uniyal/Excel-Sales-Analytics/blob/15bd649e8db57003fd5fe4e732d5e1a9c21ffe85/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_& [Months](https://github.com/Shivam-Uniyal/Excel-Sales-Analytics/blob/6266a7ebd3702bdc4fc82ecc957f292a48afaca9/P%26L%20Statement%20by%20Months.pdf)
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Shivam-Uniyal/Excel-Sales-Analytics/blob/15bd649e8db57003fd5fe4e732d5e1a9c21ffe85/P%26L%20Statement%20by%20Markets.pdf)_
 
