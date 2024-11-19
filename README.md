@@ -7,7 +7,7 @@ Sales analytics for a company called Atliq Hardwares using Excel
 
     **1.** Create a _[customer performance report](https://github.com/Shivam-Uniyal/Excel-Sales-Analytics/blob/1eac5412247338bd362c4a69e7ae37c73d005a9d/Customer%20Performance%20Report.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/Shivam-Uniyal/Excel-Sales-Analytics/blob/2e2a225be804c52e517e3380059dd2e5fd5bc84a/Market%20Performance%20vs%20Target%20Report.pdf))_
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/Shivam-Uniyal/Excel-Sales-Analytics/blob/2e2a225be804c52e517e3380059dd2e5fd5bc84a/Market%20Performance%20vs%20Target%20Report.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
